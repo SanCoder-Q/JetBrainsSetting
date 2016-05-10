@@ -1,0 +1,7 @@
+<templateSet group="SanCoder">
+  <template name="main" value="public static void main(String args[]){&#10;    $END$&#10;}" description="main function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
